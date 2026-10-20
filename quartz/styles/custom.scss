@@ -1,3 +1,36 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ---- Sarpedon Society style (Option D) ----
+
+// Italic text (*USS Silversides* in markdown) shows in brass instead of bold.
+// The brass color is the "tertiary" color in quartz.config.yaml, so it
+// switches automatically between dark and light mode.
+em {
+  color: var(--tertiary);
+}
+
+// A ship name that is also a link stays link-blue, so links are always recognizable.
+a em {
+  color: inherit;
+}
+
+// Special Elite only comes in one weight; this stops browsers faking a bold version.
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title {
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+// Underline links inside articles so they read as links, not just colored words.
+article a {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}

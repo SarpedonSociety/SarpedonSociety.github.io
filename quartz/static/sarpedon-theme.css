@@ -1,0 +1,145 @@
+/*
+  The Sarpedon Society shared stylesheet (Option D)
+  ---------------------------------------------------
+  Used by pages that are not built by Quartz, such as the patrol map.
+  The same colors live in quartz.config.yaml; if you change one here,
+  change it there too.
+
+  Pages load it with:
+    <link rel="stylesheet" href="https://sarpedon.org/static/sarpedon-theme.css">
+
+  Dark mode is the default. Light mode turns on when the page's <html> tag has
+  saved-theme="light", which is how Quartz marks it, or when the visitor's
+  device prefers light and no choice has been saved.
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;600&display=swap");
+
+/* ---- Colors and fonts ---- */
+:root {
+  /* Dark mode: navy */
+  --ss-bg: #0b1626;          /* page background */
+  --ss-surface: #12223a;     /* panels, cards */
+  --ss-line: #24395a;        /* borders */
+  --ss-text: #dce3ec;        /* body text */
+  --ss-heading: #e9eef4;     /* headings */
+  --ss-muted: #9aabbf;       /* captions, secondary text */
+  --ss-brass: #c9a45c;       /* accent: italics, highlights, map tracks */
+  --ss-link: #8fb8ce;        /* links */
+
+  --ss-font-heading: "Special Elite", "Courier New", monospace;
+  --ss-font-body: "Source Serif 4", Georgia, serif;
+  --ss-font-mono: "IBM Plex Mono", monospace;
+
+  color-scheme: dark;
+}
+
+/* Light mode: aged paper */
+:root[saved-theme="light"] {
+  --ss-bg: #f2ecdf;
+  --ss-surface: #faf6ec;
+  --ss-line: #d9cfbb;
+  --ss-text: #24211c;
+  --ss-heading: #1a1712;
+  --ss-muted: #625b4e;
+  --ss-brass: #765a22;
+  --ss-link: #2d4f6b;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: light) {
+  :root:not([saved-theme]) {
+    --ss-bg: #f2ecdf;
+    --ss-surface: #faf6ec;
+    --ss-line: #d9cfbb;
+    --ss-text: #24211c;
+    --ss-heading: #1a1712;
+    --ss-muted: #625b4e;
+    --ss-brass: #765a22;
+    --ss-link: #2d4f6b;
+    color-scheme: light;
+  }
+}
+
+/* ---- Base text ---- */
+body {
+  margin: 0;
+  background: var(--ss-bg);
+  color: var(--ss-text);
+  font-family: var(--ss-font-body);
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ss-font-heading);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--ss-heading);
+}
+
+em { color: var(--ss-brass); font-style: italic; }
+a { color: var(--ss-link); text-underline-offset: 0.18em; }
+a:hover { color: var(--ss-brass); }
+a em { color: inherit; }
+
+/* ---- Shared site header (top bar linking back to sarpedon.org) ---- */
+.ss-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px 28px;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--ss-line);
+  background: var(--ss-bg);
+}
+
+.ss-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  color: var(--ss-heading);
+  font-family: var(--ss-font-heading);
+  font-size: 20px;
+  letter-spacing: 0.06em;
+}
+
+/* Stand-in monogram: two overlapping S's until the real logo exists */
+.ss-mark {
+  position: relative;
+  width: 46px;
+  height: 46px;
+  flex: none;
+}
+.ss-mark span {
+  position: absolute;
+  font-family: var(--ss-font-heading);
+  font-size: 40px;
+  line-height: 1;
+}
+.ss-mark span:first-child { left: 2px; top: 0; color: var(--ss-heading); }
+.ss-mark span:last-child { left: 17px; top: 8px; color: var(--ss-brass); }
+
+.ss-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  font-size: 16px;
+}
+.ss-nav a { color: var(--ss-text); text-decoration: none; }
+.ss-nav a:hover { color: var(--ss-brass); }
+.ss-nav a[aria-current="page"] { color: var(--ss-brass); font-weight: 600; }
+
+/* ---- Panels and labels used on map and graph pages ---- */
+.ss-panel {
+  background: var(--ss-surface);
+  border-radius: 4px;
+  padding: 20px 22px;
+}
+.ss-label {
+  font-family: var(--ss-font-heading);
+  letter-spacing: 0.06em;
+  color: var(--ss-brass);
+}
+.ss-muted { color: var(--ss-muted); }
