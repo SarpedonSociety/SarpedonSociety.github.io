@@ -15,31 +15,40 @@ configuration:
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
+    # Sarpedon Society style, Option D: navy and brass, typewriter headings
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      # Special Elite only has one weight, so ask Google Fonts for 400 only
+      title:
+        name: Special Elite
+        weights: [400]
+      header:
+        name: Special Elite
+        weights: [400]
+      body: Source Serif 4
       code: IBM Plex Mono
     colors:
+      # Light mode: aged paper
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#F2ECDF"         # page background
+        lightgray: "#D9CFBB"     # borders
+        gray: "#A89C84"          # graph lines, heavier borders
+        darkgray: "#24211C"      # body text
+        dark: "#1A1712"          # headings and icons
+        secondary: "#2D4F6B"     # links (blue)
+        tertiary: "#765A22"      # brass: link hover, and italic text (see custom.scss)
+        highlight: rgba(45, 79, 107, 0.10)
+        textHighlight: "#C9A45C66"
+      # Dark mode: navy
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0B1626"         # page background
+        lightgray: "#24395A"     # borders
+        gray: "#6F829A"          # graph lines, heavier borders
+        darkgray: "#DCE3EC"      # body text
+        dark: "#E9EEF4"          # headings and icons
+        secondary: "#8FB8CE"     # links (steel blue)
+        tertiary: "#C9A45C"      # brass: link hover, and italic text (see custom.scss)
+        highlight: rgba(143, 184, 206, 0.12)
+        textHighlight: "#C9A45C55"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -111,7 +120,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
@@ -230,8 +239,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Patrol Map: https://sarpedon.org/patrol-map/
+        GitHub: https://github.com/SarpedonSociety
     layout:
       position: footer
       priority: 50
