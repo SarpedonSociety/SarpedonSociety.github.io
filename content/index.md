@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: The Sarpedon Society
 ---
 
 This is a blank Quartz installation.
