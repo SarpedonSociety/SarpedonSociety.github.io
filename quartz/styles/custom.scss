@@ -34,3 +34,77 @@ article a {
   text-underline-offset: 0.18em;
   text-decoration-thickness: 1px;
 }
+
+// ---- Site bar across the top (matches the patrol map header) ----
+.ss-sitebar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px 28px;
+  padding: 14px 32px;
+  border-bottom: 1px solid var(--lightgray);
+  background: var(--light);
+}
+
+.ss-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--dark);
+  font-weight: 400;
+  background: none;
+  &:hover .ss-org {
+    color: var(--tertiary);
+  }
+}
+
+// Stand-in monogram: two overlapping S's until the real logo exists
+.ss-mark {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  flex: none;
+  & span {
+    position: absolute;
+    font: 28px/1 var(--headerFont);
+  }
+  & span:first-child {
+    left: 1px;
+    top: 0;
+    color: var(--dark);
+  }
+  & span:last-child {
+    left: 11px;
+    top: 5px;
+    color: var(--tertiary);
+  }
+}
+
+.ss-org {
+  font-family: var(--headerFont);
+  font-size: 16px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.ss-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 24px;
+  font-size: 16px;
+  & a {
+    color: var(--darkgray);
+    font-weight: 400;
+    text-decoration: none;
+    background: none;
+    &:hover {
+      color: var(--tertiary);
+    }
+    &[aria-current="page"] {
+      color: var(--tertiary);
+      font-weight: 600;
+    }
+  }
+}

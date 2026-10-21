@@ -14,6 +14,7 @@ import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { styleText } from "util"
 import { resolveFrame } from "./frames"
+import { SiteBar } from "./SiteBar"
 import type { TreeTransform } from "../plugins/types"
 import type { BuildCtx } from "../util/ctx"
 
@@ -348,6 +349,7 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
+        <SiteBar basePath={basePath} slug={slug} />
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>
             {[

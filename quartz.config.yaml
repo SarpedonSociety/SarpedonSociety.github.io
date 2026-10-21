@@ -118,7 +118,7 @@ plugins:
     enabled: false
     order: 92
   - source: "@quartz-community/quartz-fonts"
-    enabled: true
+    enabled: false
   - source: "@quartz-themes/core"
     enabled: false
     options:
@@ -205,7 +205,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: "@quartz-community/page-title"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
@@ -239,7 +239,6 @@ plugins:
     enabled: true
     options:
       links:
-        Patrol Map: https://sarpedon.org/patrol-map/
         GitHub: https://github.com/SarpedonSociety
     layout:
       position: footer
