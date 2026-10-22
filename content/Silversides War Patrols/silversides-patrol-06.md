@@ -49,21 +49,13 @@ tags: [silversides, war-patrol, ctf-72, mark-vi-exploder, 1943]
 
 <!-- MAP: embed patrol-map filtered to silversides / patrol 6 -->
 
-*Silversides* went to sea on her sixth war patrol under a new captain, with a new radio meant for wolf-pack work and with Mark XIV torpedoes whose exploders were set for magnetic detonation. Over fifty-three days she made thirteen ship contacts and three attacks. She fired fourteen torpedoes and came home without a confirmed hit. Four of those torpedoes exploded early, short of their targets. The patrol report and its two endorsements show a boat that found targets and pressed them, and a weapon that let her down at the moment of firing.
+*[[Silversides]]* went to sea on her sixth war patrol under a new captain, with a new radio meant for wolf-pack work and with Mark XIV torpedoes whose exploders were set for magnetic detonation. Over fifty-three days she made thirteen ship contacts and three attacks. She fired fourteen torpedoes and came home without a confirmed hit. Four of those torpedoes exploded early, short of their targets. The patrol report and its two endorsements show a boat that found targets and pressed them, and a weapon that let her down at the moment of firing.
 
 ---
-
-## What DANFS says
 
 The *Dictionary of American Naval Fighting Ships* gives this patrol two sentences:
 
 > "For her sixth war patrol (21 July to 4 September), Silversides patrolled between the Solomon and Caroline Islands. Since she was plagued with malfunctioning torpedoes and a scarcity of targets, she returned to Brisbane empty-handed."
-
-The patrol report corrects and expands this in three places:
-
-- **The dates.** The patrol ran from 21 July to **12 September** 1943. *Silversides* left her area on the night of 3 September on orders from CTF 72 and arrived at Brisbane at 0800 on 12 September. The 4 September date most likely comes from Fife's endorsement, which says she "began her return" that day.
-- **The area.** Her assigned area was the Solomons–Bismarcks–New Guinea area. In practice she worked the shipping routes between Rabaul, Kavieng and Truk, and spent nearly three weeks on a submarine scouting line south of Truk.
-- **"A scarcity of targets."** She made thirteen ship contacts and attacked three. What she lacked was not targets but freedom to chase them: for twenty days she was held to a scouting line, and on the way to it she was ordered to break off from a large freighter she was trailing.
 
 ---
 
@@ -364,6 +356,12 @@ All fourteen were Mark XIV-3A torpedoes with Mark VI-1 exploders set for contact
 | 28 July departure | Margin time: 0400 underway | Text: cleared archipelago at 0200 |
 | Aircraft contact, 8 Aug | Printed as No. 9 | ⟦sic; sequence indicates No. 7⟧ |
 | Noon position, 7 Aug | Printed as Long 14-49 E | ⟦sic; track indicates 149-49 E⟧ |
+
+The patrol report corrects and expands DANFS in three places:
+
+- **The dates.** The patrol ran from 21 July to **12 September** 1943. *Silversides* left her area on the night of 3 September on orders from CTF 72 and arrived at Brisbane at 0800 on 12 September. The 4 September date most likely comes from Fife's endorsement, which says she "began her return" that day.
+- **The area.** Her assigned area was the Solomons–Bismarcks–New Guinea area. In practice she worked the shipping routes between Rabaul, Kavieng and Truk, and spent nearly three weeks on a submarine scouting line south of Truk.
+- **"A scarcity of targets."** She made thirteen ship contacts and attacked three. What she lacked was not targets but freedom to chase them: for twenty days she was held to a scouting line, and on the way to it she was ordered to break off from a large freighter she was trailing.
 
 ### Method
 
