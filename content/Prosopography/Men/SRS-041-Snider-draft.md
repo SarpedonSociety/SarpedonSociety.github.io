@@ -20,7 +20,7 @@ title: 287-39-99
 Gilbert Stodghill Snider was born in Taylorsville, Kentucky, and grew up in Little Mount, the youngest of four sons of James H. and Sallie Snider. His father was a farmer. The 1930 census lists him at nine, with brothers Robert (14), Paul (13) and James Jr. (12). By 1940 he was living away from home as a hired hand on the farm of Human and Florence McGee. His enlistment date has not yet been established.
 
 ## On *Silversides* (Dec 1941 – Dec 1942)
-Snider commissioned aboard on 15 December 1941 as a Fireman 2nd Class. He made the boat's first three war patrols under Lt. Cdr. C.C. Burlingame, rose to EM2c, and left in December 1942 for the Receiving Ship West Coast, assigned to new construction.
+Snider commissioned [[Silversides]] on 15 December 1941 as a Fireman 2nd Class. He made the boat's first three war patrols under Lt. Cdr. C.C. Burlingame, rose to EM2c, and left in December 1942 for the Receiving Ship West Coast, assigned to new construction.
 
 | Patrol | Dates | CO | Credited sunk | Credited damaged |
 |---|---|---|---|---|

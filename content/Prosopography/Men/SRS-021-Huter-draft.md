@@ -5,16 +5,16 @@ title: 375-42-38
 # ELMER G. HUTER
 **Radioman First Class · Plankowner, USS *Silversides* (SS-236)**
 
-| | |
-|---|---|
-| Born / Died | 11 Dec 1910, Fresno, CA / 30 May 2009 |
-| Service no. | 375-42-38 |
-| Commissioning rate | RM1c (15 Dec 1941) |
-| *Silversides* tenure | 15 Dec 1941 – 10 Jul 1942 |
-| Patrols aboard | 1 |
-| Final wartime rate | CRM(AA) |
-| Other vessels | *Holland*, R-13, *Sculpin*, *Kitty Hawk*, *Hector* |
-| Service | 1928–1948; recalled 12 Apr 1951 – 7 Mar 1953 |
+|                      |                                                    |
+| -------------------- | -------------------------------------------------- |
+| Born / Died          | 11 Dec 1910, Fresno, CA / 30 May 2009              |
+| Service no.          | [[375-42-38]]                                      |
+| Commissioning rate   | RM1c (15 Dec 1941)                                 |
+| *Silversides* tenure | 15 Dec 1941 – 10 Jul 1942                          |
+| Patrols aboard       | 1                                                  |
+| Final wartime rate   | CRM(AA)                                            |
+| Other vessels        | *Holland*, R-13, *Sculpin*, *Kitty Hawk*, *Hector* |
+| Service              | 1928–1948; recalled 12 Apr 1951 – 7 Mar 1953       |
 
 ## Prewar (1910–1941)
 Elmer was born in Fresno, the second son of August and Kate Huter. August, a Swiss immigrant who arrived in 1903, worked as a grocery salesman; Kate was born in Russia. Both were still classed as aliens in the 1920 census. As a boy Elmer worked the grape fields west of Fresno.
@@ -22,7 +22,7 @@ Elmer was born in Fresno, the second son of August and Kate Huter. August, a Swi
 He enlisted on 3 January 1928, aged 17, following his older brother August into the Navy. After boot camp at San Diego he served in the tender *Holland*, volunteered for submarines, and spent roughly five years in R-13 at Pearl Harbor as a radio and sound man. He married Josephine Dubiel in New London in 1933. From 1936 to 1938 he ran a radio relay station on St. Paul Island, Alaska, with his family. His obituary says he left the Navy in 1938 and re-enlisted on the promise of a berth in the new fleet boat *Sculpin*, and that in 1939 he tapped Morse code on her hull to the trapped *Squalus* survivors. The 1940 census finds him in San Diego, a Navy radioman who earned $1,308 in 1939, renting at 3720 Polk Avenue. In 1941 he went to Mare Island to join *Silversides*.
 
 ## On *Silversides* (Dec 1941 – Jul 1942)
-Huter commissioned aboard on 15 December 1941 as RM1c and made the boat's first war patrol under Lt. Cdr. C.C. Burlingame. He transferred to SM Base Pearl Harbor on 10 July 1942, five days before the second patrol sailed. His obituary recalls a deck-gun fight with a sampan, the loss of a crewman, and a depth-charge attack after which the boat was found tangled in a fishing net; he kept a piece of the net. It also says Robert Trumbull's *Silversides* named him one of the best radio and sound men.
+Huter commissioned *Silversides* on 15 December 1941 as RM1c and made [[Silversides]] first war patrol under Lt. Cdr. C.C. Burlingame. He transferred to SM Base Pearl Harbor on 10 July 1942, five days before the second patrol sailed. His obituary recalls a deck-gun fight with a sampan, the loss of a crewman, and a depth-charge attack after which the boat was found tangled in a fishing net; he kept a piece of the net. It also says Robert Trumbull's *Silversides* named him one of the best radio and sound men.
 
 | Patrol | Dates | CO | Credited sunk | Credited damaged |
 |---|---|---|---|---|

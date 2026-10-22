@@ -19,7 +19,7 @@ title: 375-78-84
 Richard Short grew up in Spokane, Washington, the son of Ben E. Short and Lura B. Curtis. His mother died in 1926, when he was five. His father remarried, and Richard stayed in the household with his father and stepmother Wilhelmina while his older brother, Ben Jr., went to St. Joseph's Orphanage. The 1930 census finds the eight-year-old in Spokane with three roomers in the house. He enlisted on 16 August 1938, at 17, and qualified in submarines. He told the *Anchorage Daily News* in 2001 that qualifying took a year, that the $25 monthly submarine pay made it worth it, and that peacetime was "a gravy train."
 
 ## On *Silversides* (Dec 1941 – Apr 1942)
-Short commissioned aboard on 15 December 1941 as MM2c. The Silversides muster shows him transferring to the Gato Flag Allowance on 29 April 1942, the day before the boat's first war patrol sailed. He is a plankowner of her commissioning, fitting out and training but of no war patrol. On 26 December 1941 he was aboard while his brother, Sgt. Ben Short of the 78th Coastal AAA, married his wife during a one-day furlough from guarding the Lockheed plant at Burbank.
+Short commissioned *Silversides* on 15 December 1941 as MM2c. The [[Silversides]] muster shows him transferring to the Gato Flag Allowance on 29 April 1942, the day before the boat's first war patrol sailed. He is a plankowner of her commissioning, fitting out and training but of no war patrol. On 26 December 1941 he was aboard while his brother, Sgt. Ben Short of the 78th Coastal AAA, married his wife during a one-day furlough from guarding the Lockheed plant at Burbank.
 
 | Patrol | Dates | CO | Credited sunk | Credited damaged |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ He was married to Constance Mae Garland (marriage date not yet recorded), and a 
 - **Date of birth conflict:** postwar draft card 22 Jun **1919**; SSDI, BIRLS and divorce record 22 Jun **1921**; the 1930 census age of 8 is consistent with 1921. A 17-year-old enlisting in Aug 1938 fits 1921. `acknowledged_speculation`: a false 1919 birthdate to enlist without parental consent. Unresolved until OMPF returns, with or without a consent form.
 - **Yeoman error:** first search missed his middle name because the SN was transposed (375-78-84 vs 385-78-84). Musters resolved it. Sidebar candidate for the docent guide.
 - **Service span conflict:** the 2001 article says 1938–1946 aboard submarines; BIRLS discharge is 19 Jun 1945.
-- **Plankowner class:** `single` / `n_commissionings: 1` stands. It counts Gato-class hulls only, and *Dragonet* is Balao-class. If he commissioned her, say so in the narrative.
+- **Plankowner class:** frontmatter says `single` / `n_commissionings: 1`. If he was a *Dragonet* plankowner (1944), both should change. `verify`
 - **Gap:** Apr 1942 to *Dragonet* is unbridged. The article's "1938–1946" is a claim to check against musters.
 - **Brother:** Ben Emmett Short Jr., b. 5 Mar 1919; Corporal 1940, Sgt by 26 Dec 1941; 78th Coastal AAA.
 - **Birthplace** not yet established; first firm location is Spokane (1930 census).
