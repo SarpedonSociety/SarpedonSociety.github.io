@@ -1,0 +1,49 @@
+---
+cohort_id: SRS-021
+title: 375-42-38
+---
+# ELMER G. HUTER
+**Radioman First Class · Plankowner, USS *Silversides* (SS-236)**
+
+| | |
+|---|---|
+| Born / Died | 11 Dec 1910, Fresno, CA / 30 May 2009 |
+| Service no. | 375-42-38 |
+| Commissioning rate | RM1c (15 Dec 1941) |
+| *Silversides* tenure | 15 Dec 1941 – 10 Jul 1942 |
+| Patrols aboard | 1 |
+| Final wartime rate | CRM(AA) |
+| Other vessels | *Holland*, R-13, *Sculpin*, *Kitty Hawk*, *Hector* |
+| Service | 1928–1948; recalled 12 Apr 1951 – 7 Mar 1953 |
+
+## Prewar (1910–1941)
+Elmer was born in Fresno, the second son of August and Kate Huter. August, a Swiss immigrant who arrived in 1903, worked as a grocery salesman; Kate was born in Russia. Both were still classed as aliens in the 1920 census. As a boy Elmer worked the grape fields west of Fresno.
+
+He enlisted on 3 January 1928, aged 17, following his older brother August into the Navy. After boot camp at San Diego he served in the tender *Holland*, volunteered for submarines, and spent roughly five years in R-13 at Pearl Harbor as a radio and sound man. He married Josephine Dubiel in New London in 1933. From 1936 to 1938 he ran a radio relay station on St. Paul Island, Alaska, with his family. His obituary says he left the Navy in 1938 and re-enlisted on the promise of a berth in the new fleet boat *Sculpin*, and that in 1939 he tapped Morse code on her hull to the trapped *Squalus* survivors. The 1940 census finds him in San Diego, a Navy radioman who earned $1,308 in 1939, renting at 3720 Polk Avenue. In 1941 he went to Mare Island to join *Silversides*.
+
+## On *Silversides* (Dec 1941 – Jul 1942)
+Huter commissioned aboard on 15 December 1941 as RM1c and made the boat's first war patrol under Lt. Cdr. C.C. Burlingame. He transferred to SM Base Pearl Harbor on 10 July 1942, five days before the second patrol sailed. His obituary recalls a deck-gun fight with a sampan, the loss of a crewman, and a depth-charge attack after which the boat was found tangled in a fishing net; he kept a piece of the net. It also says Robert Trumbull's *Silversides* named him one of the best radio and sound men.
+
+| Patrol | Dates | CO | Credited sunk | Credited damaged |
+|---|---|---|---|---|
+| 1 | 30 Apr – 21 Jun 1942 | Burlingame | 5 (25,627 t)¹ | 1 (10,100 t) |
+
+¹ Tonnage as credited in endorsements. Patrol 1 includes a submarine credit that was likely a log or other debris.
+
+## Later War (1942–1945)
+He was received aboard *Kitty Hawk* on 22 October 1942 and stayed through the end of the war, arriving as CRM(AA) and holding permanent assignment by the first quarter of 1944. His obituary credits the ship with 292,328 miles steamed.
+
+## Postwar (1945–2009)
+Discharged 11 June 1948 after twenty years' service, he took up farming a worn-out 20-acre vineyard near Kerman. The Korean War brought him back from April 1951 to March 1953, and his obituary places him in Japan for two years while Josephine ran the farm with five daughters and a son on the way. The couple became respected raisin growers, and Elmer was a charter member of the Raisin Bargaining Association. Neither finished school, and both saw to it that all six children earned college degrees. He died 30 May 2009, and services were held at Fresno Memorial Gardens on 5 June. He was survived by six children, 17 grandchildren, 22 great-grandchildren and four great-great-grandchildren.
+
+---
+## Research Notes
+- **Break in service:** the obituary has him leaving in 1938 and re-enlisting, but "20 years of active duty" and BIRLS 1928–1948 read as continuous. `verify` against OMPF.
+- **Unit commendation:** the obituary says all crew received one for patrol 1. He left after that patrol, so check the citation's coverage before repeating it.
+- **Patrol 1 narrative:** sampan fight, crewman's death, and fishing net are obituary recollections. `verify` against the patrol report. The submarine credit is a known doubtful one (see footnote).
+- ***Hector*:** in frontmatter, not the obituary. Placement unresolved (wartime, postwar, or Korea).
+- **Brother August Huter:** obituary says he also volunteered for *Silversides*. Check the muster; possible profile or cross-link.
+- **Family-memory claims:** *Kitty Hawk* "desperately needed a radioman," the mileage figure, and the Trumbull mention are attributed, not verified. Trumbull is checkable.
+- **Place of death** not stated in the obituary.
+
+**Sources:** 1920 and 1940 census; BIRLS; Silversides muster/continuity; Silversides patrol 1 index; Fresno Bee obituary, 4 Jun 2009.

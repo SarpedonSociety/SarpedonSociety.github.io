@@ -1,0 +1,49 @@
+---
+cohort_id: SRS-039
+title: 375-78-84
+---
+# CHARLES RICHARD "CHUCK" SHORT
+**Machinist's Mate Second Class · Plankowner, USS *Silversides* (SS-236)**
+
+| | |
+|---|---|
+| Born / Died | 22 Jun 1921 (see Research Notes) / 30 May 2004 |
+| Service no. | 375-78-84 (muster variant 385-78-84) |
+| Commissioning rate | MM2c (15 Dec 1941) |
+| *Silversides* tenure | 15 Dec 1941 – 29 Apr 1942 (muster) |
+| Patrols aboard | 0 (departed the day before patrol 1 sailed) |
+| Other vessels | Gato Flag Allowance, *Dragonet* (SS-293) |
+| Service | 16 Aug 1938 – 19 Jun 1945 (BIRLS)³ |
+
+## Prewar (1921–1941)
+Richard Short grew up in Spokane, Washington, the son of Ben E. Short and Lura B. Curtis. His mother died in 1926, when he was five. His father remarried, and Richard stayed in the household with his father and stepmother Wilhelmina while his older brother, Ben Jr., went to St. Joseph's Orphanage. The 1930 census finds the eight-year-old in Spokane with three roomers in the house. He enlisted on 16 August 1938, at 17, and qualified in submarines. He told the *Anchorage Daily News* in 2001 that qualifying took a year, that the $25 monthly submarine pay made it worth it, and that peacetime was "a gravy train."
+
+## On *Silversides* (Dec 1941 – Apr 1942)
+Short commissioned aboard on 15 December 1941 as MM2c. The Silversides muster shows him transferring to the Gato Flag Allowance on 29 April 1942, the day before the boat's first war patrol sailed. He is a plankowner of her commissioning, fitting out and training but of no war patrol. On 26 December 1941 he was aboard while his brother, Sgt. Ben Short of the 78th Coastal AAA, married his wife during a one-day furlough from guarding the Lockheed plant at Burbank.
+
+| Patrol | Dates | CO | Credited sunk | Credited damaged |
+|---|---|---|---|---|
+| none | | | | |
+
+## Later War (1942–1945)
+After leaving *Silversides* he served with the Gato Flag Allowance and later joined *Dragonet*, commissioned in 1944. In the Sea of Okhotsk *Dragonet* struck an uncharted reef and began taking on water; he recalled that the crew blew the forward torpedo room's water and brought her back from 361 feet. "The hand of God and training," he said. BIRLS gives his discharge as 19 June 1945. *(The 1942–1944 service is not yet bridged from the musters.)*
+
+## Postwar (1945–2004)
+He was married to Constance Mae Garland (marriage date not yet recorded), and a divorce is recorded in 1962. He later lived in Alaska. In 2001 the *Anchorage Daily News* profiled him as one of the four remaining WWII submarine combat veterans in the state. Each second Tuesday he met Richard Woodward, George Williams and John Bilkey for coffee at Elmer's Pancake House on Fireweed Lane. "Most of us think Submarines are the best duty in the world," he said. He died 30 May 2004.
+
+---
+## Research Notes
+- **Departure:** `muster_derived`. The Silversides muster shows 29 Apr 1942; his last prior muster appearance was the month before. No ROC located. Patrol 1 sailed 30 Apr, so the margin is one day. `verify` with ROC.
+- **Name:** BIRLS lists Charles Richard Short. The SSA Applications and Claims Index records "Richard Charles Short" (Jun 1945), "Charles R. Short" and "Charles Richard Short" (Jun 2004).
+- **Date of birth conflict:** postwar draft card 22 Jun **1919**; SSDI, BIRLS and divorce record 22 Jun **1921**; the 1930 census age of 8 is consistent with 1921. A 17-year-old enlisting in Aug 1938 fits 1921. `acknowledged_speculation`: a false 1919 birthdate to enlist without parental consent. Unresolved until OMPF returns, with or without a consent form.
+- **Yeoman error:** first search missed his middle name because the SN was transposed (375-78-84 vs 385-78-84). Musters resolved it. Sidebar candidate for the docent guide.
+- **Service span conflict:** the 2001 article says 1938–1946 aboard submarines; BIRLS discharge is 19 Jun 1945.
+- **Plankowner class:** `single` / `n_commissionings: 1` stands. It counts Gato-class hulls only, and *Dragonet* is Balao-class. If he commissioned her, say so in the narrative.
+- **Gap:** Apr 1942 to *Dragonet* is unbridged. The article's "1938–1946" is a claim to check against musters.
+- **Brother:** Ben Emmett Short Jr., b. 5 Mar 1919; Corporal 1940, Sgt by 26 Dec 1941; 78th Coastal AAA.
+- **Birthplace** not yet established; first firm location is Spokane (1930 census).
+- **Marriage:** confirm that the 1962 divorce was from Constance; the photo caption names her as his wife but gives no dates.
+
+**Sources:** 1930 census; SSA Applications and Claims Index; BIRLS; Silversides muster; Silversides patrol 1 index; *Anchorage Daily News*, 4 Jul 2001, "Old salts."
+
+³ BIRLS span. The article says submarine service ran 1938–1946.

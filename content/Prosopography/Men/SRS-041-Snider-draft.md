@@ -1,0 +1,53 @@
+---
+cohort_id: SRS-041
+title: 287-39-99
+---
+# GILBERT S. SNIDER
+**Chief Electrician's Mate (AA)(T) · Plankowner, USS *Silversides* (SS-236) and USS *Sea Fox* (SS-402)**
+
+| | |
+|---|---|
+| Born / Died | 21 Mar 1921, Taylorsville, KY / 13 Feb 1945, Guam |
+| Service no. | 287-39-99 |
+| Commissioning rate | F2c (15 Dec 1941) |
+| *Silversides* tenure | 15 Dec 1941 – 2 Dec 1942 |
+| Patrols aboard | 3 (11 ships credited, 53,377 t)² |
+| Rating progression | F2c → EM2c (*Silversides*) → EM1c (*Sea Fox*, Jun 1944) → CEM(AA)(T) (1 Jan 1945) |
+| Other vessels | *Sea Fox* (SS-402), plankowner |
+| Resting place | Guam |
+
+## Prewar (1921–1941)
+Gilbert Stodghill Snider was born in Taylorsville, Kentucky, and grew up in Little Mount, the youngest of four sons of James H. and Sallie Snider. His father was a farmer. The 1930 census lists him at nine, with brothers Robert (14), Paul (13) and James Jr. (12). By 1940 he was living away from home as a hired hand on the farm of Human and Florence McGee. His enlistment date has not yet been established.
+
+## On *Silversides* (Dec 1941 – Dec 1942)
+Snider commissioned aboard on 15 December 1941 as a Fireman 2nd Class. He made the boat's first three war patrols under Lt. Cdr. C.C. Burlingame, rose to EM2c, and left in December 1942 for the Receiving Ship West Coast, assigned to new construction.
+
+| Patrol | Dates | CO | Credited sunk | Credited damaged |
+|---|---|---|---|---|
+| 1 | 30 Apr – 21 Jun 1942 | Burlingame | 5 (25,627 t)¹ | 1 (10,100 t) |
+| 2 | 15 Jul – 8 Sep 1942 | Burlingame | 4 (15,250 t) | 2 (5,750 t) |
+| 3 | 2 Oct – 25 Nov 1942 | Burlingame | 2 (12,500 t)² | 0 |
+| **Total** | | | **11 (53,377 t)** | **3 (15,850 t)** |
+
+¹ Tonnage as credited in endorsements. Patrol 1 includes a submarine credit that was likely a log or other debris.
+² Patrol 3 figures come from the ship's history, not a patrol report. The total therefore mixes bases.
+
+## Later War (1943–1945)
+New construction meant *Sea Fox*, and Snider was a plankowner, received aboard on 13 June 1944 as EM1c. He was advanced to CEM(AA)(T) on 1 January 1945, a Chief at 23, only three years after commissioning *Silversides* as a Fireman.
+
+## Death and Burial (13 Feb 1945)
+*Sea Fox* ended her second war patrol at Guam on 5 February 1945 and was in refit. On 13 February Snider was killed one mile north of Camp Dealey, ambushed by Japanese stragglers. Four shipmates died with him: Anthony Paul Triupis S1c; Theodore Lester Goodhue CTM, the Chief of the Boat; John Edward Brey EM1c; and Edward James Counsell MoMM2c. Two chiefs were among the five dead. His record states he was killed by Japanese ambush and buried at Guam. *Sea Fox* survived the war and sailed on her third patrol on 8 March 1945.
+
+There is no postwar record.
+
+---
+## Research Notes
+- **Reporting date:** resolved. The index's 12-15-40 vs 12-15-41 conflict is settled at 15 Dec 1941.
+- **Open:** *Sea Fox* ROC/muster entry for the five deaths; Feb 1945 war diary; OMPF or casualty report. `verify`
+- **Open:** cross-link the other four men by service number.
+- **Open:** enlistment date, and what he did between the 1940 census and Dec 1941.
+- **Patrol 3:** `secondary_source` (ship's history, not located on Fold3).
+- **Patrol 2:** early-war report format; no duration breakdown. Index values are being corrected.
+- **Camp Dealey ambush:** dates and place come from Oneternalpatrol and uboat.net; `verify` against primary casualty records.
+
+**Sources:** 1930 and 1940 census; Silversides muster; Silversides patrol indexes 1–3; Oneternalpatrol; uboat.net; Find a Grave memorial 261658457.
