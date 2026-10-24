@@ -226,11 +226,19 @@ Seventeen men were making their first patrol in *Silversides*. Officers do not a
 > [!example] The plankowners — 12 of 46 still aboard
 > Twenty months after commissioning, 12 of the 46 enlisted men who put *Silversides* in commission at Mare Island on 15 December 1941 sailed on her sixth patrol.
 >
-> **Aboard continuously since commissioning (9):** Patrick A. Carswell (SM1c), Arthur W., Jr. Clark (CEM(A)), Robert G. Kelly (CEM(A)), William F. Marsh (MoMM2c), Robert F. Messley (MoMM1c), Thomas E. Parson (MoMM1c), Roy C. Riser (MoMM1c), Harold R. Schwartz (TM3c), Andrew M. Smiley (CTM(P))
+> **Aboard continuously since commissioning (9):** [[SRS-004|Patrick A. Carswell (SM1c)]], [[SRS-005|Arthur W., Jr. Clark (CEM(A))]], [[SRS-022|Robert G. Kelly (CEM(A))]], [[SRS-026|William F. Marsh (MoMM2c)]], [[SRS-028|Robert F. Messley (MoMM1c)]], [[SRS-033|Thomas E. Parson (MoMM1c)]], [[SRS-035|Roy C. Riser (MoMM1c)]], [[SRS-038|Harold R. Schwartz (TM3c)]], [[SRS-040|Andrew M. Smiley (CTM(P))]]
 >
 > **Plankowners who had left and returned (3):** Howard W. Calver (EM1c), James F., Jr. Duckworth (TM1c), Darrell Robinson (SC1c)
 >
 > Five plankowners on the June muster were transferred in the week before sailing: Robert Anderson, Walter J. Czerwinski, Robert R. Danko and Albert W. Gutzmer on 15 July, and Charles H. Mathewson on 20 July. Czerwinski came back aboard on 27 September 1943 as an acting Chief Torpedoman.
+%%
+[[SRS-026]]
+[[SRS-028]]
+[[SRS-033]]
+[[SRS-035]]
+[[SRS-038]]
+[[SRS-040]]
+%%
 <!-- Clark, Kelly, Smiley counted as continuous: their 12 Jul 1942 "received" dates reflect a one-day paperwork transfer for a change of rating (ROC 13 Jul 1942). -->
 <!-- WARDROOM PLANKOWNERS: Finch (and later Czerwinski) — add once officer roster is in. -->
 
