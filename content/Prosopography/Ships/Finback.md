@@ -1,4 +1,5 @@
 ---
+title: Finback
 PSO_reviewed:
 com_date: 1942-01-31
 Hull_no: SS-230
@@ -148,7 +149,9 @@ _20 March 2018_
 |19|WEAVER, Emil Ralph Jr.|[[234-35-48]]|Sea2c|28 July 1941|Buffalo, N.Y.|ALL USN|ALL REC|ALL 1-31-42|ALL From NYd. Portsmouth, N.H. for duty.|
 |20|WILLDRICK, Paul Burton|[[311-79-43]]|Sea2c|15 Aug 1941|Detroit, Mich.|ALL USN|ALL REC|ALL 1-31-42|ALL From NYd. Portsmouth, N.H. for duty.|
 |21|WILLIAMS, Kenneth "H"|[[287-52-92]]|Sea2c|21 Feb 1941|Louisville, Ky.|ALL USN|ALL REC|ALL 1-31-42|ALL From NYd. Portsmouth, N.H. for duty.|
-
+---
+Return to [[Ships]] or [[Prosopography]]
+%%
 **Ambiguity / Review Notes**
 
   
@@ -170,3 +173,4 @@ _20 March 2018_
       
     
 - **Page 3, Lines 14 & 15 (Enlistment Data):** Both R.P. Sheehan and R.F. Smith Jr. have enlistment dates and locations flagged as `Not available.` on the original document.
+%%

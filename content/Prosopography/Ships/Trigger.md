@@ -158,7 +158,8 @@ _Trigger_ received 11 battle stars for World War II service and the Presidentia
 | 19       | VAN DE VEERE, Paul L.,         | [[413-40-97]]      | R.M.3c.,   | 11 Jun 1939         | Napa, California     | V-3, USNR  | 1/31/42  | From: Nyd., Mare Island, Calif. for duty.       |
 | 20       | WILSON, Donald H.,             | [[212-55-92]]      | Sea.1c.    | 28 May 1940         | Springfield, Mass    | U.S.N.     | 1/31/42  | From: Nyd., Mare Island, Calif. for duty.       |
 | 21       | WILSON, Walter F.,             | [[346-58-07]]      | Matt.1c.   | 28 Dec 1938         | Pitts., Pa.          | U.S.N.     | 1/31/42  | From: Nyd., Mare Island, Calif. for duty.       |
-
+Return to [[Ships]] or [[Prosopography]]
+%%
 **Commanding Officer Signature:** J. H. LEWIS, Lieut. Comdr., U.S. Navy, Commanding.
 
   
@@ -184,3 +185,4 @@ _Trigger_ received 11 battle stars for World War II service and the Presidentia
       
     
 - **Page 4, Line 18 (Transferred From):** Sourced from `U.S.S. TAMBOR, (Flag Allowance)` (_Tambor_ SS-198).
+%%
