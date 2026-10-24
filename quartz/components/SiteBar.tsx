@@ -9,6 +9,7 @@ const SITE_LINKS: { label: string; href: string; external?: boolean }[] = [
   { label: "Prosopography", href: "/Prosopography/" },
   { label: "Dispatches", href: "/PSO-Dispatches/" },
   { label: "Patrol Map", href: "https://sarpedon.org/patrol-map/", external: true },
+  { label: "Gato Connections", href: "https://sarpedon.org/gato-connections/", external: true },
   { label: "About", href: "/About" },
 ]
 
