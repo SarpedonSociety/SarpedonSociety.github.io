@@ -231,14 +231,6 @@ Seventeen men were making their first patrol in *Silversides*. Officers do not a
 > **Plankowners who had left and returned (3):** Howard W. Calver (EM1c), James F., Jr. Duckworth (TM1c), Darrell Robinson (SC1c)
 >
 > Five plankowners on the June muster were transferred in the week before sailing: Robert Anderson, Walter J. Czerwinski, Robert R. Danko and Albert W. Gutzmer on 15 July, and Charles H. Mathewson on 20 July. Czerwinski came back aboard on 27 September 1943 as an acting Chief Torpedoman.
-%%
-[[SRS-026]]
-[[SRS-028]]
-[[SRS-033]]
-[[SRS-035]]
-[[SRS-038]]
-[[SRS-040]]
-%%
 <!-- Clark, Kelly, Smiley counted as continuous: their 12 Jul 1942 "received" dates reflect a one-day paperwork transfer for a change of rating (ROC 13 Jul 1942). -->
 <!-- WARDROOM PLANKOWNERS: Finch (and later Czerwinski) — add once officer roster is in. -->
 
