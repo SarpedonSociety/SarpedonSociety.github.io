@@ -47,7 +47,9 @@ tags: [silversides, war-patrol, ctf-72, mark-vi-exploder, 1943]
 > | **Remaining on return** | 10 torpedoes · 7,340 gal. fuel · 10 days provisions |
 > | **Result** | No damage confirmed. Not designated "Successful." |
 
-<!-- MAP: embed patrol-map filtered to silversides / patrol 6 -->
+<iframe src="https://sarpedon.org/patrol-map/?patrol=SS-236-P06&embed"
+  title="Track of USS Silversides, sixth war patrol" width="100%" height="560"
+  style="border: 1px solid var(--lightgray); border-radius: 6px" loading="lazy"></iframe>
 
 *[[Silversides]]* went to sea on her sixth war patrol under a new captain, with a new radio meant for wolf-pack work and with Mark XIV torpedoes whose exploders were set for magnetic detonation. Over fifty-three days she made thirteen ship contacts and three attacks. She fired fourteen torpedoes and came home without a confirmed hit. Four of those torpedoes exploded early, short of their targets. The patrol report and its two endorsements show a boat that found targets and pressed them, and a weapon that let her down at the moment of firing.
 
