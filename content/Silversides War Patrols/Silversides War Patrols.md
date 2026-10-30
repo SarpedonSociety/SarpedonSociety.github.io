@@ -5,7 +5,7 @@
 | 1                            | 1 Submarine<br>1 Trawler<br>2 Supply Ships<br>1 Nav. Aux. | 25,627 tons                 | 1 Tanker                            | 10000 tons         |                     |
 | 2                            | 2 Passenger-Freighters<br>2 Trawlers                      | 15,250 tons                 | 1 Tanker<br>1 Trawler               | 5,750 tons         |                     |
 | 3                            | 1 Freighter-Transport<br>1 Warship                        | 12,500 tons                 |                                     |                    |                     |
-| 4                            | 1 Tanker                                                  | 10,010 tons                 |                                     |                    |                     |
+| [[silversides-patrol-04\|4]]                            | 1 Tanker                                                  | 10,010 tons                 |                                     |                    |                     |
 | 5                            | 1 Transport                                               | 10,000 tons<br>approximated |                                     |                    |                     |
 | [[silversides-patrol-06\|6]] |                                                           |                             |                                     |                    |                     |
 | 7                            | 4 Freighters                                              | 22,075 tons                 | 1 Freighter                         | 5,000 tons         |                     |

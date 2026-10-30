@@ -295,6 +295,28 @@ Officers do not appear on the musters or the Report of Changes. The patrol repor
 > [!example] The "fourth consecutive patrol" men
 > Part XVIII says "This is the fourth consecutive patrol for six officers and twenty-one men." The first war patrol sailed 30 April 1942. Twenty-one of the 64 on the sailing roster show a "date received" of 25 April 1942 or earlier on the September muster: Anderson, Booze, Brady, Carswell, Clark (Arthur W.), Danko, Griffith, Gutzmer, Kelly, Little, Lloyd (Calvin S.), Marsh, Mathewson, Messley, Parson, Riser, Schwartz, Smiley, Stegall, Tetzel and Williams (Robert J.). That matches the captain's count of 21. Duncan would make 22 if his "15 Dec 1942" received date on the September muster is actually 15 Dec 1941, so that date needs a second look. Booze also needs a check, since the sailing ROC shows him transferred on 11 December although he is on the 31 December muster and sailed in Patrol 6. Compare these 21 against the Patrol 6 roster to see who was still aboard in July 1943.
 
+>[!info]- Men Transferred Off Prior to Sailing
+>| Name | Service Number | Rate | Branch | Date | Disposition / Authority |
+>| :--- | :--- | :---: | :---: | :---: | :--- |
+>| **DE MUTH, Lester J.** | `201-55-77` | CMoMM(AA) | USN | 12/02/42 | Transferred to RS West Coast for New Construction[cite: 6] |
+>| **SNIDER, Gilbert S.** | `287-39-99` | EM2c | USN | 12/02/42 | Transferred to RS West Coast for New Construction[cite: 8] |
+>| **CLARK, William H.** | `610-19-06` | S1c | USNR | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **DAVENPORT, Donald J.** | `238-48-61` | MoMM1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **GRAHAM, Robert H.** | `265-81-20` | TM1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **KEITH, Edwin M.** | `250-67-05` | F3c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **KURAL, Mitchell J.** | `300-67-37` | S2c | USN | 12/11/42 | Transferred to *USS Sperry* (AS-12) for duty[cite: 6] |
+>| **LEWIS, Peter J.** | `243-27-92` | MoMM1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **MANUTLOW, John** | `652-24-74` | S1c | USNR | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 6] |
+>| **MC VEY, James K.** | `372-20-66` | RM2c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 7] |
+>| **NEWTON, William H.** | `243-62-62` | TM2c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 7] |
+>| **RAPIER, William F.** | `410-65-16` | Matt1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 7] |
+>| **ROBINSON, Darrell** | `356-38-76` | SC2c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 7] |
+>| **SCANLAN, Cornell W.** | `337-57-17` | F1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 7] |
+>| **STEWART, Robert L.** | `622-53-54` | S2c V-6 | USNR | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 8] |
+>| **WHITE, Dorleigh O.** | `375-73-18` | EM1c | USN | 12/11/42 | Transferred to COMSUBDIV 102 for duty[cite: 8] |
+>| **TROTTER, Murray P.** | `321-23-48` | FC3c | USN | 12/14/42 | Rec 12/10/42; Transferred back to COMSUBDIV 102 on 12/14/42[cite: 8] |
+>| **HISE, William C.** | `633-42-66` | F3c V-6 | USNR | 12/16/42 | Rec 12/10/42; Transferred back to COMSUBDIV 102 on 12/16/42[cite: 6, 9] |
+
 > [!info]- Enlisted crew, fourth war patrol (64)
 > | Name | Rating | Service number | Enlisted | Note |
 > |---|---|---|---|---|
@@ -357,7 +379,7 @@ Officers do not appear on the musters or the Report of Changes. The patrol repor
 > | STEGALL, Albert H. | CRM(AA) | 295 28 92 | 9 Oct 41, Pearl Harbor | Plankowner (received 15 Dec 41 on Sept muster); on the books by 25 Apr 42; letters read CRM, possibly CEM — check |
 > | SWENDSEN, Charles A. | S2c | 620 37 18 | 13 Feb 42, Des Moines | Received 10 Dec 42 from COMSUBDIV 102 |
 > | TETZEL, Paul | TM3c | 614 02 49 | 11 Sep 41, Cleveland | On the books by 25 Apr 42 |
-> | TOWEY, Louis R. | S2c | 300 80 20 | 12 Mar 42, Chicago | Received 10 Dec 42; the Dec muster transcription reads TOKEY, the ROC TOWEY |
+> | TOMEY, Louis R. | S2c | 300 80 20 | 12 Mar 42, Chicago | Received 10 Dec 42; the Dec muster transcription reads TOKEY, the ROC TOMEY |
 > | WILKE, Norbert B. | F2c | 620 18 13 | 29 Dec 41, Des Moines | Received 10 Dec 42 from COMSUBDIV 102 (V-6) |
 > | WILLIAMS, Clarence C. | MoMM2c | 381 20 07 | 5 Aug 39, San Diego | Received 10 Dec 42 from COMSUBDIV 102 |
 > | WILLIAMS, Robert J. | F2c | 342 62 38 | 6 Jan 42, Kansas City, Mo. | Printed F3c on the Dec muster, corrected to F2c; on the books by 25 Apr 42 |
