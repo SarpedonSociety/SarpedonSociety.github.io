@@ -53,7 +53,9 @@ tags: [silversides, war-patrol, 1944, marianas, guam, saipan, port-apra, mark-xv
 > | **Remaining on return** | 0 torpedoes · 4,780 gal. fuel · 30 days provisions |
 > | **Result (COMSUBPAC)** | 5 ships sunk (23,600 t); 3 damaged (18,000 t). Designated "successful." |
 
-<!-- MAP: embed patrol-map filtered to silversides / patrol 10 -->
+<iframe src="https://sarpedon.org/patrol-map/?patrol=SS-236-P10&embed"
+  title="Track of USS Silversides, fourth war patrol" width="100%" height="560"
+  style="border: 1px solid var(--lightgray); border-radius: 6px" loading="lazy"></iframe>
 <!-- MAP DATA (attack sheets, Part H; all times −10 / K):
   A1 1432, 8 May — 13-33 N 144-34.5 E (contact 2; contact table 13-42 N 144-22 E, lat overtyped)
   A2 0540, 10 May — 11-26 N 143-46 E (contact 3)
