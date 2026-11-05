@@ -238,8 +238,8 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      text: "© 2026 Sarpedon Society. All rights reserved."
       links:
+        "© 2026 Sarpedon Society. All rights reserved.": /
         GitHub: https://github.com/SarpedonSociety
         Patreon: https://patreon.com/SarpedonSociety
     layout:
