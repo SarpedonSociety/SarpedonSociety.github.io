@@ -1,2 +1,2 @@
 [[Ships]] commissioning rosters and Silversides [[Men|profiles]].
-Currently I have published the men that I have been able to at least find some information on. Some of the men require an OMPF to estabilish a link to their community of origin. 
+Every man is listed with his Sarpedon Research Society number SRS-XXX. This number is an internal identifier that allows me to track cohorts as they are added. 
